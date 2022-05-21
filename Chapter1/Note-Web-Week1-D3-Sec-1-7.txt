@@ -1,0 +1,7 @@
+  ***Section 1.7 meta Element
+  
+  - meta elements: provide information about the page, it's included inside the head element.
+  - The word "meta" has several meanings but in html it means "about itself".
+  - There are different types of meta elements you should inlude, but most are optional.
+  - meta element is void element(not container) which doesn't have ending tag. most programmers use space and forward slash to end which is outdated.
+    syntax for meta element:  <meta charset="UTF-8">

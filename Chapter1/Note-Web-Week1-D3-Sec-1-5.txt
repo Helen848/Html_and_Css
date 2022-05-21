@@ -1,0 +1,14 @@
+**Section 1.5 Structural Elements 
+   
+   - Important html constructs: doctype, html head and body.
+   - doctype construct is the instruction not an element and appears at the top of every web page. The html, head and body elements form basic structure of a web page, so we refer to structural elements.
+   - The doctype instruction + structural elements for Skeleton Code.
+       <!DOCTYPE html> -> tells the browser what type document the web page is.
+       <html lang="en">  -> it's container it surrounds the rest of the web page.
+       <head>
+               -> it's a container, it includes elements that provides information about the web page as whole.
+       </head>
+       <body>
+               -> it's also a contianer, it includes elements that display the content of the page.
+       </body>
+       </html  
