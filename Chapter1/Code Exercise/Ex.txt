@@ -1,0 +1,86 @@
+ **Exercises
+ 
+ 1. Dream Host is a good Web Hosting Service:
+   - Becuase it has a lot of features that fullifll my requirements, these are:
+     - their control panel gives me an admin access to all of my DreamHost products. which includes, easily update information, add users, adjusting email settings, gain access to promotions.
+     - also they have Real life Human Beings to get support and getting answers easily.
+     - simple installation of the web apps like WordPress.
+     - have 100% uptime guarantee .
+     - SSDs for my website caching, database queries are faster than HDDs.
+     - create unlimited addresses with POP/IMAP/SMTP accounts 
+     - provide Encrypt SSL certificates on all damains so the data passed is always safely encrypted.
+     - they have also automated backup feature.
+ 
+ 2. As the statcounter global stats:
+       Chrome  64.34%
+       Safari  19.16%
+       Edge    4.05%
+       
+ 3. https://mars.jpl.nasa.gov/msl/images/PIA16082_Mitrofanov1F-thm.jpg
+ 
+       https -> protocol
+       mars  -> web server computer: stores the web page
+       msl/images -> home directory and subdirectory
+       PIA16082_Mitrofanov1F-thm.jpg -> the image's file name
+       
+ 4. Container Element: is an elements which includes it's content inside the starting and ending tag. eg <p></P>
+    Void Element: is an empty element, doesn't have an ending tag, the content of the element place inside the opening tag. eg. <meta charset="UTF-8">
+
+ 5. DOCTYPE is an instruction to the web browser about what version of HTML the page is written in.   
+ 
+ 6.  a, The strong element wasn closed after the p element 
+     b,  <body>
+		<p>
+		I hate when I'm studying and a velociraptor throws bananas at me.
+		Does that happen to anyone else?
+		<strong>I hope not!</strong>
+		</p>
+		
+        </body>       
+ 
+ 7.    <p lang="spanish">
+           La vanidad es tan fantastica, que hasta nos induce a         preocuparnos de lo que pensaran de nosotros una vez muertos y enterrados.
+       </p>
+       
+ 8. The difference between a p and a div element:
+       p element: used to group a set of words which form a sentence and form a paragraph which gives sepciifc meaning. and also have break lines above and below the element.
+       div element: used to group a set of words but doesn't have a specific meaning, they have line breaks above and below the element.
+         - most of the time they used for the purpose of formatting in css.
+             
+  9. - He is known as a proponent of Web standards, and has played a crucial role in the development of specifications such as CSS.   
+     
+ 10. - The world wide web consortium is an international community that develops open standards to ensure the long-term growth of the web.
+     - Also W3C has accessible feature: strategies, standards, resources to make the web more accessible for displayed persons.
+     - also W3C has web authentication working group: based on giving functionality of giving strong authentication.
+     - also W3C has privacy activity feature: as web development increasing so fast web applications can have user's private data, so this feature works to improve support for user privacy on the web and provides general expertise.
+ 
+ 
+ 11.
+       <!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<title>test title</title>
+	</head>
+	<body>
+	<h7>test heading
+	</body>
+	</html> 
+	
+ Error1: element h7 is not allowed as a child of element, also there is element called h7. from line 7, col 1 to line 7 to col 4.
+ Error2:  before the end tag of body element there is unclosed element. from line 8 col 1 to line 8 col 4
+ Error3: Unclosed element h7, from line 7 col1 to line7 to col4
+        	   
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
