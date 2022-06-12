@@ -1,0 +1,9 @@
+   * Section 2.6 Block Elements
+    - 
+    - A Block element expands to fill the width of the container, so for a given container there will be only one block element for each row in the container. 
+      -> phrasing element's width matches the width of the element's content
+      -> multiple elements can display in one row
+      -> the term "block-level element was part of HTML4 standard, but it's been omitted from the HTML5 standard. 
+            -> it's probably because W3C feels HTML should focus on the content and CSS determine an element's formatting.
+            -> but the term is not completely dead, mozilla still uses "block" to describe HTML concepts, and google use "block element" instead of "block-level element"
+      

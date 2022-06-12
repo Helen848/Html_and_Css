@@ -1,0 +1,16 @@
+  * Section 2.5 Content Model Categories
+   
+   - What Content is Allowed Within a Particular Container?
+   HTML Validation Service have alos Containership Rules: which determines If an element X contains another Y element and looking the Y's category to determine an element X is allowed to contain Y element.
+     - The need for determining element's category is becuase of there lots of containership rules (more than 11,00).
+     - To determine which elements are allowed inside a container: look up the preferred element in the W3C standard and read the "content model" section which says "phrasing content". the preferred element is allowed to include elements that are in the phrasing category.
+     
+  - Content Model Category Descriptions 
+    -> metadata category is that it includes all the elements that are allowed in the head container.
+    -> The flow category includes plain text and all the elements that are allowed in a web page body container. 
+    -> blockquote, div, hr, p and pre elements are flow content elements
+    -> phrasing category elements: abbr, b, br, cite, code, del, dfn, em, i, ins, kbd, mark, q, s, samp, small, span, strong, sub, time, u, var, wbr
+    -> embedded elements: audio, canvas, iframe, img, and video
+    -> interactive category: a, button, input, select, textarea
+    -> heading category: h1, h2, h3, h4, h5, and h6.
+    -> sectioning category: article, aside, nav, section

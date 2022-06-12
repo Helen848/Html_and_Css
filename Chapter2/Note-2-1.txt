@@ -1,0 +1,8 @@
+  ** Chapter Two
+  
+   Section 2.1 Introduction
+     - Chapter Overview: -> coding-style conventions and W3C'S categorization scheme used to classify HTML elements,
+                         -> These elemetns are span the width of the web page or block elemnts and elements can be embedded inside a paragraph(inline elements).
+                         
+         
+  

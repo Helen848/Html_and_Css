@@ -1,0 +1,10 @@
+   * Section 2.4 HTML Elements should describe Web Page Content Accurately
+   
+     - An overall goal of using appropriate HTML element to the the appropriate content of the element, so your web page's content will described fully.
+           eg. if we want to display a paragraph in our page, we should use the p element rather than other elements, so using the appropriate element will improve the accuracy of our page.
+     - using web page content accurately and fully for:
+         -> it's form of ducumentation and documentation support programmers understand and maintain the web page code more easily.
+         -> enables the programmer to manipulate the web page more effectively using CSS and JavaScript
+     - there's nothing in the HTML5 standard or W3C's HTML validation service that enforces this goal, it's left up to programmers' due diligence.         
+   
+  
