@@ -1,0 +1,6 @@
+  * Section 2.9 pre Element
+  
+  - We should use pre element for text that needs to have its whitespace preserved.
+  - pre stands for "preserved whitespace"
+  - the per Element: used to preserve the blank spaces or newlines, if we include an element with <pre></pre> element the inside element content will have space and newline befor and after it.
+  - pre Element uses: monospace font which makes each characters have uniform width.

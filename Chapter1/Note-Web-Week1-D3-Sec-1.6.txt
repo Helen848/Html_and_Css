@@ -1,7 +1,0 @@
-**Section 1.6 titile Element
-   
-     - Note: head element icludes elements associated with the web page as a whole. so it's title elements goes within the head element.
-     - The title element's contained data that specifies the label that appears in the browser window's title bar.
-         => purpose of title element:
-             1, provides information for someone trys to maintain your web page
-             2, helps web search engines to find your web page.
